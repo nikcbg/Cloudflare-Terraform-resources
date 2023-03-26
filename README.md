@@ -12,4 +12,5 @@
 - generates a Terraform file for the zone using `cf-terraforming` and sorts the output alphabetically by name.
 - writes the output to a file with a name based on the zone and TLD.
 
-## The terraform folder conatains `*.tf` files with terraform resources for corresponding Cloudflare zone. 
+## The terraform folder conatains 
+- `*.tf` files with terraform resources for corresponding Cloudflare zone. 
