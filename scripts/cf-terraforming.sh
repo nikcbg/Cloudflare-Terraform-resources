@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Cloudflare API token
-export CF_API_TOKEN=<your_api_token>
+export CF_API_TOKEN=<cf_api_token>
 
 # Set the output directory for Terraform files
 output_dir="./terraform"
